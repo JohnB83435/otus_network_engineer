@@ -1,2 +1,2 @@
 # Репозиторий лабораторных работ курса "Сетевой инженер" в OTUS.ru
-0. [VLAN и маршрутизация между VLAN](otus_network_engineer/otus_network_engineer/lab00/).
+0. [VLAN и маршрутизация между VLAN](labs/lab00).
